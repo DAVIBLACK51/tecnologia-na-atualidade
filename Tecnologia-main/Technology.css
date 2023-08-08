@@ -1,0 +1,23 @@
+body
+{
+  background: linear-gradient(135deg, #3498db, #2ecc71);
+
+}
+h1 {
+  text-decoration: underline;
+  font-size: 40px;
+}
+oi
+{
+  color: red;
+}
+.menu 
+{ list-style: none; fill: 0; 
+  margin: 0;
+  Display: Flex; color: #333;
+} 
+.links { margem-direita: 20px; } 
+.links a { text-decoration: none; color: white;
+ Font-Weight: bold; 
+} 
+.links a:hover { color: lightblue; }
